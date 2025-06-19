@@ -17,7 +17,7 @@ A Python tool that automatically generates subtitles for WAV audio files using O
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/whisper-subtitle-generator.git
+git clone https://github.com/lwg1111/whisper-subtitle-generator.git
 cd whisper-subtitle-generator
 ```
 
